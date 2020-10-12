@@ -1,4 +1,7 @@
 
 touch {file1,file2,file3}
 mkdir final
+ls
+ll
+cat file1
 
