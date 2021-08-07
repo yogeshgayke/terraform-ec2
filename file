@@ -4,4 +4,5 @@ mkdir final
 ls -a
 ll
 cat file1
+ls -ad
 
